@@ -1,9 +1,0 @@
-Diagrama 8. AulasUniversidad
-Diagrama 9. Motorizaciones
-Diagrama 10. MediosTransporte
-Diagrama 11. TarjetaEstudiante
-Diagrama 12. CriptoMonedas
-Diagrama 13. Escuderias
-Diagrama 14. FormaciónInCompany
-Diagrama 15. ConflictosBelicos
-Diagrama 16. GestiónBanco
