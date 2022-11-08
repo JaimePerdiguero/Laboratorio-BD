@@ -1,7 +1,8 @@
-Diagrma 1. Gestión Viviendas
-Diagrama 2. Gestión Alumnos
-Diagrama 3. gestión Empleados
-Digrama 4. GestiónEmpl_Dpto
-Diagrama 5. GestiónEquiposIndustriales
-Diagrama 6. GestiónEditotial
-Diagrama 7. GestiónViviendas
+##Ejercicios laboratorio 1
+
+* Diagrama 1 : GestiónViviendas
+* Diagrama 2 : GestionAlumnos
+* Diagrama 3 : GestionEmpl_Dto
+* Diagrama 4 : GestiónEquiposIndustrials
+* Diagrama 5 : GestionEditorial
+* Diagrama 6 : GestionVentas
