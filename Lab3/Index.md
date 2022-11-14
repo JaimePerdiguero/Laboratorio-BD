@@ -14,4 +14,4 @@
 * Diagrama 13: Escuderías_REL
 * Diagrama 14: Formación in-company_REL
 * Diagrama 15: ConflictosBélicos_REL
-* Diagrama 16: Gestión Banco_REL
+* Diagrama 16: GestiónBanco_REL
