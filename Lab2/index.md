@@ -1,11 +1,10 @@
 ##Ejercicios Laboratorio 2
 
-* Diagrama 8: Aulas Universidad
 * Diagrama 9: Motorizaciones
 * Diagrama 10: Medios de transporte
-* Diagrama 11: Tarjeta Identificación Estudiante
+* Diagrama 11: TarjetaEstudiante
 * Diagrama 12: Criptomonedas
-* Diagrama 13: Escuderías FIA
+* Diagrama 13: Escuderías
 * Diagrama 14: Formación in-company
-* Diagrama 15: AConflictos Bélicos
+* Diagrama 15: ConflictosBélicos
 * Diagrama 16: Gestión Banco
