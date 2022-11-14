@@ -1,7 +1,7 @@
 ##Ejercicios Laboratorio 2
 
 * Diagrama 9: Motorizaciones
-* Diagrama 10: Medios de transporte
+* Diagrama 10: MediosTransporte
 * Diagrama 11: TarjetaEstudiante
 * Diagrama 12: Criptomonedas
 * Diagrama 13: Escuderías
