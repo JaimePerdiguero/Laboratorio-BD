@@ -8,10 +8,10 @@
 * Diagrama 6 : GestionEditorial_REL.SQl
 * Diagrama 7 : GestionVentas_REL.SQL
 * Diagrama 9: Motorizaciones_REL.SQL
-* Diagrama 10: Medios de transporte_REL.SQL
-* Diagrama 11: Tarjeta Identificación Estudiante_REL.SQL
+* Diagrama 10: MediosTransporte_REL.SQL
+* Diagrama 11: TarjetaEstudiante_REL.SQL
 * Diagrama 12: Criptomonedas_REL.SQL
 * Diagrama 13: Escuderías_REL.SQL
 * Diagrama 14: Formación in-company_REL.SQL
-* Diagrama 15: AConflictos Bélicos_REL.SQL
-* Diagrama 16: Gestión Banco_REL.SQL
+* Diagrama 15: ConflictosBélicos_REL.SQL
+* Diagrama 16: GestiónBanco_REL.SQL
