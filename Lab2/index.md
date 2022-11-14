@@ -7,4 +7,4 @@
 * Diagrama 13: Escuderías
 * Diagrama 14: Formación in-company
 * Diagrama 15: ConflictosBélicos
-* Diagrama 16: Gestión Banco
+* Diagrama 16: GestiónBanco
